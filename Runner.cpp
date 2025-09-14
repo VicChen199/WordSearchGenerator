@@ -5,7 +5,7 @@ This program generates a word search puzzle
 using random positioning and directions
 when generating the locations of each word.
 
-The results are put in a text file
+The results are outputted to a text file
 */
 
 # include <iostream>
